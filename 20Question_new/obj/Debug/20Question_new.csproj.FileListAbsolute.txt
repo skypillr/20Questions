@@ -1,0 +1,18 @@
+C:\Users\admin\Documents\WeChat Files\jin_li_wei\Files\project\20Question\20Question_new\bin\Debug\20Question_new.exe.config
+C:\Users\admin\Documents\WeChat Files\jin_li_wei\Files\project\20Question\20Question_new\bin\Debug\20Question_new.exe
+C:\Users\admin\Documents\WeChat Files\jin_li_wei\Files\project\20Question\20Question_new\bin\Debug\20Question_new.pdb
+C:\Users\admin\Documents\WeChat Files\jin_li_wei\Files\project\20Question\20Question_new\obj\Debug\20Question_new.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\WeChat Files\jin_li_wei\Files\project\20Question\20Question_new\obj\Debug\20Question_new.exe
+C:\Users\admin\Documents\WeChat Files\jin_li_wei\Files\project\20Question\20Question_new\obj\Debug\20Question_new.pdb
+E:\jdocs\code\20Question\20Question_new\bin\Debug\20Question_new.exe.config
+E:\jdocs\code\20Question\20Question_new\obj\Debug\20Question_new.exe
+E:\jdocs\code\20Question\20Question_new\obj\Debug\20Question_new.pdb
+E:\jdocs\code\20Question\20Question_new\bin\Debug\20Question_new.exe
+E:\jdocs\code\20Question\20Question_new\bin\Debug\20Question_new.pdb
+E:\jdocs\code\20Question\20Question_new\obj\Debug\20Question_new.csprojResolveAssemblyReference.cache
+E:\20Question\20Question_new\bin\Debug\20Question_new.exe.config
+E:\20Question\20Question_new\obj\Debug\20Question_new.exe
+E:\20Question\20Question_new\obj\Debug\20Question_new.pdb
+E:\20Question\20Question_new\bin\Debug\20Question_new.exe
+E:\20Question\20Question_new\bin\Debug\20Question_new.pdb
+E:\20Question\20Question_new\obj\Debug\20Question_new.csprojResolveAssemblyReference.cache
